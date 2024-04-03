@@ -1,15 +1,9 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo NLW Expert - Rocketseat" src="https://github.com/Eduardoppereira/check-in/blob/main/logo.png" width="200px" />
 </p>
 
 <p align="center">
 Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -19,7 +13,11 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+Preview do projeto desenvolvido.
+</p>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/check-in/blob/main/Captura%20de%20tela.png" width="60%">
 </p>
 
 
@@ -33,4 +31,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+Nesse projeto desenvolvi a versão simplificada de um sistema de check-in para eventos presenciais.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir possíveis melhorias ou enviar um pull request com suas alterações.
+
+## Contato
+* [LinkedIn](www.linkedin.com/in/eduardo-pedrosap)
+* [GitHub](https://github.com/Eduardoppereira)
